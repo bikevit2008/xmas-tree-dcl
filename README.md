@@ -10,4 +10,4 @@
 ````js
   let ip = 'xmas.maff.io'
 ````
-Here you need domain linked to your raspberry pi with code server
+Here you need domain linked to your raspberry pi with server code
